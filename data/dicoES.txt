@@ -1,0 +1,6 @@
+ane	asno
+chat	gato
+chien	perro
+cochon	cerdo
+papillon	mariposa
+singe	mono

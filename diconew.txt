@@ -1,0 +1,7 @@
+cochon	pig
+chat	cat
+ane	donkey
+singe	monkey
+sourire	smile
+papillon	butterfly
+chien	dog

@@ -1,0 +1,6 @@
+donkey	ane
+cat	chat
+dog	chien
+pig	cochon
+butterfly	papillon
+monkey	singe
